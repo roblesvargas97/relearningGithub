@@ -1,3 +1,5 @@
 Hola mi nombre es Jesus Urie Robles Vargas
 
 Este año aprendi react y javascript , tambien aprendi css,
+
+Este año mi meta es encontrar un trabajo.
